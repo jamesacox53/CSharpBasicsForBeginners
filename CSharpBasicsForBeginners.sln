@@ -5,6 +5,10 @@ VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section 02 - Introduction to CSharp", "Section 02 - Introduction to CSharp\Section 02 - Introduction to CSharp.csproj", "{83A94C9A-2C5A-4AE7-AA82-AC7DB71F439A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section 05 - Control Flow", "Section 05 - Control Flow\Section 05 - Control Flow.csproj", "{DE26DED6-CE1E-421B-9A55-B0A46597BA8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section 06 - Arrays and Lists", "Section 06 - Arrays and Lists\Section 06 - Arrays and Lists.csproj", "{00B9D9C7-A786-4EDF-A371-81A9F333CE3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{83A94C9A-2C5A-4AE7-AA82-AC7DB71F439A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83A94C9A-2C5A-4AE7-AA82-AC7DB71F439A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83A94C9A-2C5A-4AE7-AA82-AC7DB71F439A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE26DED6-CE1E-421B-9A55-B0A46597BA8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE26DED6-CE1E-421B-9A55-B0A46597BA8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE26DED6-CE1E-421B-9A55-B0A46597BA8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE26DED6-CE1E-421B-9A55-B0A46597BA8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00B9D9C7-A786-4EDF-A371-81A9F333CE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B9D9C7-A786-4EDF-A371-81A9F333CE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B9D9C7-A786-4EDF-A371-81A9F333CE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B9D9C7-A786-4EDF-A371-81A9F333CE3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

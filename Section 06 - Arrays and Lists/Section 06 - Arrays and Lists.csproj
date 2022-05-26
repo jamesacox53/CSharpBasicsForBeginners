@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{83A94C9A-2C5A-4AE7-AA82-AC7DB71F439A}</ProjectGuid>
+    <ProjectGuid>{00B9D9C7-A786-4EDF-A371-81A9F333CE3B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Section_02___Introduction_to_CSharp</RootNamespace>
-    <AssemblyName>Section 02 - Introduction to CSharp</AssemblyName>
+    <RootNamespace>Section_06___Arrays_and_Lists</RootNamespace>
+    <AssemblyName>Section 06 - Arrays and Lists</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HelloWorld.cs" />
+    <Compile Include="Exercises1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

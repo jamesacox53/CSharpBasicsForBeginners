@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{83A94C9A-2C5A-4AE7-AA82-AC7DB71F439A}</ProjectGuid>
+    <ProjectGuid>{DE26DED6-CE1E-421B-9A55-B0A46597BA8B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Section_02___Introduction_to_CSharp</RootNamespace>
-    <AssemblyName>Section 02 - Introduction to CSharp</AssemblyName>
+    <RootNamespace>Section_05___Control_Flow</RootNamespace>
+    <AssemblyName>Section 05 - Control Flow</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HelloWorld.cs" />
+    <Compile Include="Exercises1.cs" />
+    <Compile Include="Exercises2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Section5.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
